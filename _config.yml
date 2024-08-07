@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lei Shengyue"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Japanese Foundation of Cancer Research"
+  bio              : "Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/LeiShengyue"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/cdcmomoko?igsh=Yjg2eHlhZnM3bmNp&utm_source=qr"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
