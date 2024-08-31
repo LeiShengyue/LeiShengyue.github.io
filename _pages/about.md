@@ -29,8 +29,8 @@ I am currently in my 1st year of a master's program at Tokyo Medical and Dental 
 💖Thank you very much for visiting my page. Hope you have a wonderful day.✨
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 バイオインフォマティクス技術者認定試験合格発表ーーー上位10~30%で合格しました🈴！！１
-- *2024.07*: &nbsp;🎉🎉 9月の癌学会でポスター発表の演題が採用されました
+- *2024.08*: &nbsp;🎉🎉 バイオインフォマティクス技術者認定試験で上位10〜30％の成績で合格しました！
+- *2024.07*: &nbsp;🎉🎉 9月の癌学会でポスター発表の演題が採用されました。
 
 [//]: # (# 📝 Publications )
 
