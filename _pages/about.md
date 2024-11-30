@@ -31,6 +31,7 @@ I am currently in my 1st year of a master's program at Tokyo Medical and Dental 
 # 🔥 News
 - *2024.11*: &nbsp;🧑‍🎓🧑‍🎓 日本分子生物学会でポスター発表しました。
 - *2024.11*: &nbsp;👀👀 3R3C国際シンポジウムで研究内容がポスター発表されました。
+- *2024.11*: &nbsp;💁💁 第52回高松宮妃癌研究基金国際シンポジウムに受付スタッフとして参加しました。
 - *2024.10*: &nbsp;💥💥 国立遺伝学研究所の倍数性研究会でポスター発表しました。
 - *2024.09*: &nbsp;🧑‍🎓🧑‍🎓 日本癌学会で「Tracking Karyotypic Changes During Malignant Transformation」という題でポスター発表しました。
 - *2024.08*: &nbsp;🈴🈴 バイオインフォマティクス技術者認定試験で上位10〜30％の成績で合格しました！
