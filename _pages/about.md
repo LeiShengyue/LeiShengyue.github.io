@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋Hello! My name is Lei Shengyue(雷 声越/ライ セイエツ),a Chinese🇨🇳 student studying in Japan🇯🇵.
-I am currently in my 1st year of a master's program at Tokyo Medical and Dental University, majoring in Cancer Biology🧫. 
+I am currently in my 1st year of a master's program at Institute of Science Tokyo(Tokyo Medical and Dental University), majoring in Cancer Biology🧫. 
 
 📅Since last year, when I was still an undergraduate student, I have been conducting research on Cancer and Chromosomal Instability, specifically Aneuploidy🧬, at the Experimental Pathology Department of the Cancer Institute of the Japanese Foundation for Cancer Research in Ariake, Tokyo.📍
 
@@ -29,6 +29,7 @@ I am currently in my 1st year of a master's program at Tokyo Medical and Dental 
 💖Thank you very much for visiting my page. Hope you have a wonderful day.✨
 
 # 🔥 News
+- *2025.01*: &nbsp;🈴🈴 日本語能力試験N1レベル154/180の点数で合格しました〜
 - *2024.11*: &nbsp;🧑‍🎓🧑‍🎓 日本分子生物学会でポスター発表しました。
 - *2024.11*: &nbsp;👀👀 3R3C国際シンポジウムで研究内容がポスター発表されました。
 - *2024.11*: &nbsp;💁💁 第52回高松宮妃癌研究基金国際シンポジウムに受付スタッフとして参加しました。
@@ -63,8 +64,8 @@ I am currently in my 1st year of a master's program at Tokyo Medical and Dental 
 
 
 # 📖 Educations
-- *2024.04 - 2025.1 (now)*, 🥼Graduate Student at Tokyo Medical and Dental University.
-- *2023.04 - 2025.1 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
+- *2024.04 - 2025.2 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
+- *2023.04 - 2025.2 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
 - *2020.04 - 2023.04*, &nbsp;🧪Undergraduate Student at Tokyo University of Science, majoring in Biological Science.
 - *2016.09 - 2019.06*, &nbsp;🐼Chengdu Experimental Foreign Languages School (High School).
 
