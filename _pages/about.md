@@ -64,8 +64,8 @@ I am currently in my 1st year of a master's program at Institute of Science Toky
 
 
 # 📖 Educations
-- *2024.04 - 2025.2 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
-- *2023.04 - 2025.2 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
+- *2024.04 - 2025.3 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
+- *2023.04 - 2025.3 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
 - *2020.04 - 2023.04*, &nbsp;🧪Undergraduate Student at Tokyo University of Science, majoring in Biological Science.
 - *2016.09 - 2019.06*, &nbsp;🐼Chengdu Experimental Foreign Languages School (High School).
 
