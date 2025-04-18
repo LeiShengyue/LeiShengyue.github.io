@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋Hello! My name is Lei Shengyue(雷 声越/ライ セイエツ),a Chinese🇨🇳 student studying in Japan🇯🇵.
-I am currently in my 1st year of a master's program at Institute of Science Tokyo(Tokyo Medical and Dental University), majoring in Cancer Biology🧫. 
+I am currently in my 2nd year of a master's program at Institute of Science Tokyo(Tokyo Medical and Dental University), majoring in Cancer Biology🧫. 
 
 📅Since last year, when I was still an undergraduate student, I have been conducting research on Cancer and Chromosomal Instability, specifically Aneuploidy🧬, at the Experimental Pathology Department of the Cancer Institute of the Japanese Foundation for Cancer Research in Ariake, Tokyo.📍
 
