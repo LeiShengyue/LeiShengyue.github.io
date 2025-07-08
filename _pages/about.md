@@ -29,12 +29,13 @@ I am currently in my 2nd year of a master's program at Institute of Science Toky
 💖Thank you very much for visiting my page. Hope you have a wonderful day.✨
 
 # 🔥 News
+- *2025.07*: &nbsp;🎤🎤 第84回日本癌学会でEnglish Oral　Sessionで演題採択されました。9月に発表します！
 - *2025.01*: &nbsp;🈴🈴 日本語能力試験N1レベル154/180の点数で合格しました〜
 - *2024.11*: &nbsp;🧑‍🎓🧑‍🎓 日本分子生物学会でポスター発表しました。
 - *2024.11*: &nbsp;👀👀 3R3C国際シンポジウムで研究内容がポスター発表されました。
 - *2024.11*: &nbsp;💁💁 第52回高松宮妃癌研究基金国際シンポジウムに受付スタッフとして参加しました。
 - *2024.10*: &nbsp;💥💥 国立遺伝学研究所の倍数性研究会でポスター発表しました。
-- *2024.09*: &nbsp;🧑‍🎓🧑‍🎓 日本癌学会で「Tracking Karyotypic Changes During Malignant Transformation」という題でポスター発表しました。
+- *2024.09*: &nbsp;🧑‍🎓🧑‍🎓 第83回日本癌学会で「Tracking Karyotypic Changes During Malignant Transformation」という題でポスター発表しました。
 - *2024.08*: &nbsp;🈴🈴 バイオインフォマティクス技術者認定試験で上位10〜30％の成績で合格しました！
 
 [//]: # (# 📝 Publications )
@@ -64,8 +65,8 @@ I am currently in my 2nd year of a master's program at Institute of Science Toky
 
 
 # 📖 Educations
-- *2024.04 - 2025.6 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
-- *2023.04 - 2025.6 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
+- *2024.04 - 2025.7 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
+- *2023.04 - 2025.7 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
 - *2020.04 - 2023.04*, &nbsp;🧪Undergraduate Student at Tokyo University of Science, majoring in Biological Science.
 - *2016.09 - 2019.06*, &nbsp;🐼Chengdu Experimental Foreign Languages School (High School).
 
