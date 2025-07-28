@@ -29,7 +29,8 @@ I am currently in my 2nd year of a master's program at Institute of Science Toky
 💖Thank you very much for visiting my page. Hope you have a wonderful day.✨
 
 # 🔥 News
-- *2025.07*: &nbsp;🎤🎤 第84回日本癌学会でEnglish Oral Sessionで演題採択されました。9月に発表します！
+- *2025.07*: &nbsp;🏆🏆 研究内容が第4回細胞分裂研究会で1位でポスター賞受賞しました！
+- *2025.07*: &nbsp;🎤🎤 第84回日本癌学会でEnglish Oral Sessionで演題採択されました。9月に発表します。
 - *2025.01*: &nbsp;🈴🈴 日本語能力試験N1レベル154/180の点数で合格しました〜
 - *2024.11*: &nbsp;🧑‍🎓🧑‍🎓 日本分子生物学会でポスター発表しました。
 - *2024.11*: &nbsp;👀👀 3R3C国際シンポジウムで研究内容がポスター発表されました。
