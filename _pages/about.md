@@ -29,6 +29,7 @@ I am currently in my 2nd year of a master's program at Institute of Science Toky
 💖Thank you very much for visiting my page. Hope you have a wonderful day.✨
 
 # 🔥 News
+- *2025.12*: &nbsp;🧑‍🎓🧑‍🎓 第48回日本分子生物学会でシンポジウム発表しました。
 - *2025.09*: &nbsp;🧑‍🎓🧑‍🎓 第84回日本癌学会でEnglish Oral Sessionで発表しました。
 - *2025.09*: &nbsp;🎤🎤 第48回日本分子生物学会で公募シンポジウムで演題採択されました。12月に発表します。
 - *2025.09*: &nbsp;🧑‍🎓🧑‍🎓 第13回生命医薬情報学連合大会(IIBMP2025)でポスター発表しました。
@@ -69,8 +70,8 @@ I am currently in my 2nd year of a master's program at Institute of Science Toky
 
 
 # 📖 Educations
-- *2024.04 - 2025.11 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
-- *2023.04 - 2025.11 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
+- *2024.04 - 2025.12 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
+- *2023.04 - 2025.12 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
 - *2020.04 - 2023.04*, &nbsp;🧪Undergraduate Student at Tokyo University of Science, majoring in Biological Science.
 - *2016.09 - 2019.06*, &nbsp;🐼Chengdu Experimental Foreign Languages School (High School).
 
