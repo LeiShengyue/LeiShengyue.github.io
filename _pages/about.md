@@ -17,16 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hello! My name is Lei Shengyue(雷 声越/ライ セイエツ),a Chinese🇨🇳 student studying in Japan🇯🇵.
+👋Hello! My name is Lei Shengyue(雷 声越/ライ セイエツ),a Chinese student studying in Japan.
 I am currently in my 2nd year of a master's program at Institute of Science Tokyo(Tokyo Medical and Dental University), majoring in Cancer Biology🧫. 
 
-📅Since last year, when I was still an undergraduate student, I have been conducting research on Cancer and Chromosomal Instability, specifically Aneuploidy🧬, in the Division of Experimental Pathology at the Cancer Institute, the Japanese Foundation for Cancer Research(JFCR), in Ariake, Tokyo.📍
+📅Conducting research on Cancer and Chromosomal Instability, specifically Aneuploidy🧬, in the Division of Experimental Pathology at the Cancer Institute, the Japanese Foundation for Cancer Research(JFCR), in Ariake, Tokyo.📍
 
-🎯My research aims to elucidate the significance of aneuploidy in tumor formation and progression by tracing the cancerization process of aneuploid cells. 
-
-☁️Currently, I am studying Bioinformatics💻 to analyze various experimental data, including the scRNA-seq used in my project📝.
-
-💖Thank you very much for visiting my page. Hope you have a wonderful day.✨
+🎯My study aims to elucidate the significance of aneuploidy in tumor formation and progression by tracing the cancerization process of aneuploid cells. 
 
 # 🔥 News
 - *2025.12*: &nbsp;🧑‍🎓🧑‍🎓 第48回日本分子生物学会でシンポジウム発表しました。
@@ -70,10 +66,10 @@ I am currently in my 2nd year of a master's program at Institute of Science Toky
 
 
 # 📖 Educations
-- *2024.04 - 2025.12 (now)*, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
-- *2023.04 - 2025.12 (now)*, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
-- *2020.04 - 2023.04*, &nbsp;🧪Undergraduate Student at Tokyo University of Science, majoring in Biological Science.
-- *2016.09 - 2019.06*, &nbsp;🐼Chengdu Experimental Foreign Languages School (High School).
+- *2024.04 - 2026.03, 🥼Graduate Student at Institute of Science Tokyo( Tokyo Medical and Dental University).
+- *2023.04 - 2026.03, 🧬Student at Div. Exp. Pathol., Cancer Inst.,Japanese Foundation For Cancer Research.
+- *2020.04 - 2023.04, &nbsp;🧪Undergraduate Student at Tokyo University of Science, majoring in Biological Science.
+- *2016.09 - 2019.06, &nbsp;🐼Chengdu Experimental Foreign Languages School (High School).
 
 
 [//]: # (💬 Invited Talks)
